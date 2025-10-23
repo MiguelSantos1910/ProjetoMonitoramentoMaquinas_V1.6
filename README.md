@@ -1,0 +1,1 @@
+# ProjetoMonitoramentoMaquinas_V1.5
